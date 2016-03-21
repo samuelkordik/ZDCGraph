@@ -1,6 +1,9 @@
 # ZDCGraph
 ZDCGraph is an app built in R using Shiny to generate graphs of vital sign trends obtained from Zoll patient monitors.
 
+## Self-Contained Setup
+[Download setup here](https://app.box.com/s/8kvsvdo1x3vchax9m35km5sh1nr8m243)
+
 ## Use
 ZDCGraph requires R, with the following packages installed: stringr, shiny, reshape2, ggplot2, scales. It's possible to package it for easy distribution using R-Portable and Google Chrome Portable, with [these instructions](http://www.r-bloggers.com/deploying-desktop-apps-with-r/).
 
